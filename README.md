@@ -1,6 +1,6 @@
 # Todo-List
 
-** Please visit the project with VPN**
+**Please visit the project with VPN**
 
 ###  Created by Omid Firouzi
 
